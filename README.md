@@ -125,17 +125,6 @@ npm run dev
 cd client
 npm run dev
 ```
-
----
-
-## 🌐 Deployment
-
-| Layer | Platform | URL |
-|---|---|---|
-| Frontend | Vercel | — |
-| Backend | Render | — |
-| Database | MongoDB Atlas | — |
-
 ---
 
 ## 👨‍💻 Developer
